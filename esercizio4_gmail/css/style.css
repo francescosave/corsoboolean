@@ -1,0 +1,81 @@
+
+
+body{
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+
+#contentLogo{
+  width: 70%;
+  margin: auto;
+}
+
+#logoGmail{
+  width: 70px;
+  height: 70px;
+}
+
+.logoGmailTesto{
+    font-size: 18px;
+    color: white;
+}
+
+#formSearch{
+  width: 70%;
+  margin: 5px auto;
+}
+
+#NumeroCerchiato{
+  color: orange;
+}
+
+#NumeroMail{
+  color: white;
+  width: 70%;
+  margin: auto;
+  font-size: 18px;
+}
+
+.row{
+  background-color: lightgray;
+  width: 70%;
+  margin: auto;
+}
+
+.selezioneMail{
+  background-color: lightgray;
+  display: inline-block;
+  width: 8%;
+}
+
+.segnaPreferita{
+  background-color: lightgray;
+  display: inline-block;
+  width: 8%;
+}
+
+
+.subjectMail{
+  background-color: lightgray;
+  display: inline-block;
+  width: 28%;
+}
+
+.bodyMail{
+  background-color: lightgray;
+  display: inline-block;
+  width: 48%;
+}
+
+
+hr{
+  width: 70%;
+  margin: 5px auto;
+}
+
+#footerText{
+    font-size: 18px;
+    color: white;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
