@@ -1,0 +1,16 @@
+
+
+#intestazioneCV{
+  border: 1px solid none;
+  text-align: center;
+  background-color: lightgray;
+}
+
+.titoloSezione{
+  color: orange;
+}
+
+
+hr{
+  border-color: orange;
+}
