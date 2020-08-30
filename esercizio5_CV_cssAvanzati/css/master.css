@@ -1,0 +1,22 @@
+
+
+.CV.Intestazione{
+  border: 1px solid none;
+  text-align: center;
+  background-color: lightgray;
+}
+
+.CV.sezioneLavoro      h2,
+.CV.sezioneScuola      h2,
+.CV.sezioneInteressi   h2{
+  color: orange;
+}
+
+
+.CV.piepagina_separator hr{
+  border-color: orange;
+}
+
+.CV.piepagina_separator .credits {
+  font-style: oblique;
+}
