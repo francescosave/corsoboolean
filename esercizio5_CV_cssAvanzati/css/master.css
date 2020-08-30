@@ -1,6 +1,6 @@
 
 
-.CV.Intestazione{
+.CV.intestazione{
   border: 1px solid none;
   text-align: center;
   background-color: lightgray;
@@ -13,10 +13,10 @@
 }
 
 
-.CV.piepagina_separator hr{
+.CV.piepagina hr{
   border-color: orange;
 }
 
-.CV.piepagina_separator .credits {
+.CV.piepagina .credit{
   font-style: oblique;
 }
